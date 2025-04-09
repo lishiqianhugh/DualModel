@@ -1,0 +1,73 @@
+cup_center: [280, 190]
+cup_size: [240, 420]
+
+intro:
+  regular:
+    circle:
+      object_sizes: [30]
+      object_nums: [2]
+  erlenmeyer:
+    triangle:
+      object_sizes: [35]
+      object_nums: [2]
+  ierlenmeyer:
+    trapezoid: 
+      object_sizes: [25]
+      object_nums: [2]
+  
+testing:
+  ierlenmeyer:
+    trapezoid: 
+      object_sizes: [25]
+      object_nums: [0]
+
+regular:
+  circle:
+    object_sizes: [200, 84, 30]
+    object_nums: [3, 13, 105, 2, 8, 50]
+  square:
+    object_sizes: [170, 80, 30]
+    object_nums: [3, 11, 95, 2, 9, 50]
+  triangle:
+    object_sizes: [230, 95, 35]
+    object_nums: [4, 18, 140, 2, 11, 80]
+  rectangle: 
+    object_sizes: [170, 80, 30]
+    object_nums: [3, 11, 95, 2, 9, 50]
+  trapezoid: 
+    object_sizes: [150, 70, 25]
+    object_nums: [3, 11, 96, 2, 7, 50]
+
+erlenmeyer:
+  circle:
+    object_sizes: [160, 84, 30]
+    object_nums: [3, 13, 100, 2, 8, 50]
+  square:
+    object_sizes: [170, 80, 30]
+    object_nums: [3, 11, 95, 2, 9, 50]
+  triangle:
+    object_sizes: [190, 95, 35]
+    object_nums: [4, 18, 135, 2, 11, 80]
+  rectangle: 
+    object_sizes: [170, 80, 30]
+    object_nums: [3, 11, 95, 2, 9, 50]
+  trapezoid: 
+    object_sizes: [120, 70, 25]
+    object_nums: [4, 11, 90, 2, 7, 50]
+
+ierlenmeyer:
+  circle:
+    object_sizes: [205, 84, 30]
+    object_nums: [3, 13, 104, 2, 8, 50]
+  square:
+    object_sizes: [170, 80, 30]
+    object_nums: [3, 11, 95, 2, 9, 50]
+  triangle:
+    object_sizes: [230, 95, 35]
+    object_nums: [4, 18, 135, 2, 11, 80]
+  rectangle: 
+    object_sizes: [170, 80, 30]
+    object_nums: [3, 11, 95, 2, 9, 50]
+  trapezoid: 
+    object_sizes: [150, 70, 25]
+    object_nums: [3, 11, 98, 2, 6, 50]
